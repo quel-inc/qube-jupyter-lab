@@ -1,5 +1,5 @@
 
-## Setup
+## Setup Environment
 
 ```
 git clone git@github.com:qiqb-osaka/qube-calib.git
@@ -13,6 +13,11 @@ ln -s qube-calib/.config
 pipenv install
 jupyter-lab --port=8888 --ip=\* --no-browser --NotebookApp.token=''
 ```
+## Setup to Run
+
+- Power QuBEs up
+- Run setup scripts for QuBEs - `TARGET_ADDR=10.5.0.14 ./qube_calib/adi_api_mod/setup.sh`
+- Run ipynb scripts
 
 ## Examples
 
