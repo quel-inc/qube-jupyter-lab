@@ -21,6 +21,7 @@ ipywidgets = ">=7.6"
 plotly = "*"
 jupyter-dash = "*"
 pandas = "*"
+packaging = "*"
 
 [dev-packages]
 

@@ -1,4 +1,25 @@
 
+## Pre-requirements
+
+Using pyenv is recommended and install related libraries for Python before building environment.
+
+```
+# Example for Ubuntu 20.04
+sudo apt install libsqlite3-dev \
+                 libreadline6-dev \
+                 libbz2-dev \
+                 libssl-dev \
+                 libsqlite3-dev \
+                 libncursesw5-dev \
+                 libffi-dev \
+                 libdb-dev \
+                 libexpat1-dev \
+                 zlib1g-dev \
+                 liblzma-dev \
+                 libgdbm-dev \
+                 libmpdec-dev
+```
+
 ## Setup Environment
 
 ```
