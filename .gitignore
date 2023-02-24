@@ -2,3 +2,5 @@
 /qube_master
 /.config
 /.ipynb_checkpoints/
+/result_send_recv/
+/log/
