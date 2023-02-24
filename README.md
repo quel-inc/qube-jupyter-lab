@@ -23,7 +23,7 @@ sudo apt install libsqlite3-dev \
 ## Setup Environment
 
 ```
-git submodule update --init --recursive
+git submodule update --init
 pushd ./adi_api_mod
 make
 popd
